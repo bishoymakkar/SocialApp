@@ -34,7 +34,7 @@ To get a local copy up and running, follow these steps:
 
    ```bash
    git clone https://github.com/bishoymakkar/SocialApp.git
-   cd repository
+   cd SocialApp
    ```
 
 2. **Install dependencies:**

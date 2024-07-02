@@ -33,7 +33,7 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/bishoymakkar/SocialApp.git
    cd repository
    ```
 

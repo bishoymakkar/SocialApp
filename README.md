@@ -10,11 +10,13 @@ This project is a sample social mobile application developed using React Native.
 
 ## Screenshots
 
-![Splash Screen](screenshots/splash_screen.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/splash_screen.png" alt="Splash Screen" style="width: 20%;height: 20%;" />
 
-![Home Screen](screenshots/home_screen.png)
+  <img src="screenshots/home_screen.png" alt="Home Screen" style="width: 20%; height: 20%;" />
 
-![Post Details Screen](screenshots/post_details_screen.png)
+  <img src="screenshots/post_details_screen.png" alt="Post Details Screen" style="width: 20%;height: 20%;" />
+</div>
 
 ## Technologies Used
 
